@@ -1,0 +1,4 @@
+Hello Spark
+Scala is powerful
+Spark processes big data
+Spark supports distributed computing
