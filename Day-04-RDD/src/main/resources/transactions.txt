@@ -1,0 +1,5 @@
+101,Laptop,50000
+102,Phone,30000
+103,Mouse,1000
+104,Keyboard,2000
+105,Monitor,15000
