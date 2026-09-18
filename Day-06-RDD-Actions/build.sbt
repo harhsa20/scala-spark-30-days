@@ -1,0 +1,15 @@
+ThisBuild / scalaVersion := "2.12.18"
+
+name := "day-06-rdd-actions"
+
+version := "1.0"
+
+libraryDependencies ++= Seq(
+  "org.apache.spark" %% "spark-core" % "3.5.3"
+)
+
+Compile / run / fork := true
+
+Compile / run / javaOptions ++= Seq(
+  "--add-opens=java.base/sun.nio.ch=ALL-UNNAMED"
+)
