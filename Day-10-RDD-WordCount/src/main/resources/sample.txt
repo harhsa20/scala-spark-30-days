@@ -1,0 +1,4 @@
+Spark is fast
+Spark is powerful
+Scala and Spark are useful
+Spark makes data processing fast
